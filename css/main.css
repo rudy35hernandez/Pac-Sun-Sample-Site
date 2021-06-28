@@ -150,5 +150,6 @@ img{
         flex-direction: column;
         width: 40%;
         margin-bottom: 4rem;
+        /* min-height: 20rem */
 }
 }
