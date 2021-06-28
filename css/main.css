@@ -136,3 +136,19 @@ img{
 
 }
 
+@media (max-width: 800px) {
+    .photosSection{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+        margin-left: 30%  
+
+    }
+    .item{
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        margin-bottom: 4rem;
+}
+}
